@@ -1,1 +1,1 @@
-# ColorGame
+#Museum of Candy
